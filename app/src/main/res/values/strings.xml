@@ -14,5 +14,6 @@
     <string name="a2c">Neural networks</string>
     <string name="a2d">support vector machines</string>
 
+    <string name="submit_btn">Submit</string>
 
 </resources>
