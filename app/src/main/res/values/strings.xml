@@ -1,21 +1,25 @@
 <resources>
     <string name="app_name">Machine Learning Quiz</string>
 
-    <string name="q1">Select the statement that describes Machine learning</string>
+    <string name="q1">1. Select the statement that describes Machine learning</string>
 
     <string name="a1a">Machine learning is the study of machines</string>
     <string name="a1b">Machine learning is the use of data to make computers intelligent</string>
     <string name="a1c">Machine learning is the process of storing information in computers</string>
     <string name="a1d">Machine learning is the study of automation</string>
 
-    <string name="q2">Select the types of algorithms used in machine learning</string>
+    <string name="q2">2. Select the types of algorithms used in machine learning</string>
     <string name="a2a">Decision trees</string>
     <string name="a2b">Monkey bars</string>
     <string name="a2c">Neural networks</string>
     <string name="a2d">support vector machines</string>
 
-    <string name="q3">Machine learning is a sub-set of artificial intelligence.</string>
+    <string name="q3">3. Machine learning is a sub-set of artificial intelligence.</string>
     <string name="a3hint">Enter True or False</string>
+
+    <string name="q4">4. Which of the fillowing images shows a decision tree?</string>
+    <string name="a4a">A</string>
+    <string name="a4b">B</string>
 
     <string name="submit_btn">Submit</string>
 
