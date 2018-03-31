@@ -8,7 +8,7 @@
     <string name="a1c">Machine learning is the process of storing information in computers</string>
     <string name="a1d">Machine learning is the study of automation</string>
 
-    <string name="q2">2. Select the types of algorithms used in machine learning</string>
+    <string name="q2">2. Which of the following is not a type of algorithm used in machine learning</string>
     <string name="a2a">Decision trees</string>
     <string name="a2b">Monkey bars</string>
     <string name="a2c">Neural networks</string>
