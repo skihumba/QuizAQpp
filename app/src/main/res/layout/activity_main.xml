@@ -226,7 +226,8 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:layout_margin="12dp"
-                android:text="@string/submit_btn" />
+                android:text="@string/submit_btn"
+                android:onClick="getScore"/>
         </RelativeLayout>
 
     </LinearLayout>

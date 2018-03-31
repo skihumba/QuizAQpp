@@ -15,9 +15,9 @@
     <string name="a2d">support vector machines</string>
 
     <string name="q3">3. Machine learning is a sub-set of artificial intelligence.</string>
-    <string name="a3hint">Enter True or False</string>
+    <string name="a3hint">Enter true or false</string>
 
-    <string name="q4">4. Which of the fillowing images shows a decision tree?</string>
+    <string name="q4">4. Which of the following images shows a decision tree?</string>
     <string name="a4a">A</string>
     <string name="a4b">B</string>
 
