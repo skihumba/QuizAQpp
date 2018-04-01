@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -71,6 +72,8 @@ public class MainActivity extends AppCompatActivity {
         checkQ3();
         checkQ4();
         Toast.makeText(this, String.format("Your score is " + score), Toast.LENGTH_SHORT).show();
+        score = 0;
+
     }
 
 }
